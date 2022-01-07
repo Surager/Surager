@@ -5,6 +5,7 @@
 - 📫 My personal blog [Surager Blog](https://surager.pub/)
 - 💬 You can leave your message at my blog
 - 🔒 My [GPG public key](https://github.com/surager.gpg)
+- 🍟️ Go to the dock and get some fries!!!
 
 <!--
 **Surager/Surager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
