@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/surager">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surager&layout=compact" />
-</a>
-<a href="https://github.com/surager">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=surager&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Surager&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 
