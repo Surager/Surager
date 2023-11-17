@@ -1,11 +1,10 @@
 ### I'm Surager 👋
 
-- 🌱 I’m currently learning at Ocean University of China
-- 🤔 I'm interested in CTF and Security
+- 🌱 I’m currently learning at University of Chinese Academy of Sciences
+- 🤔 I'm interested in Cyber Security
 - 📫 My personal blog [Surager Blog](https://surager.pub/)
-- 💬 You can leave your message at my blog
-- 🔒 My [GPG public key](https://github.com/surager.gpg)
 - 🍟️ Go to the dock and get some fries!!!
+- 🍵 Some tea is much greater!!!
 
 <!--
 **Surager/Surager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
