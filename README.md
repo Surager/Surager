@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/surager">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Surager&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 
